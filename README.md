@@ -11,6 +11,4 @@ You can reach me [femioyin2003@yahoo.com].
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemiAdesola&theme=dark&show_icons=true)
 
 
-## My weekly stats
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/)
+
