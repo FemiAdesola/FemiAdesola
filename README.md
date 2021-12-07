@@ -10,5 +10,5 @@ You can reach me [femioyin2003@yahoo.com].
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemiAdesola&theme=dark&show_icons=true)
 
-<img src="https://github.com/FemiAdesola/FemiAdesola/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
+![](https://komarev.com/ghpvc/?username=FemiAdesola&style=flat)
 
