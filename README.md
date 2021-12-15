@@ -27,7 +27,7 @@ You can reach me [femioyin2003@yahoo.com].
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-## Tools
+## Tools <img src="https://img.shields.io/badge/Tools-339933?style=for-the-badge&logo=tools&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> [<img src="https://img.shields.io/badge/Git-d15050?style=for-the-badge&logo=Git&logoColor=white" />](https://openbadgepassport.com/app/badge/info/406063)
 
 
