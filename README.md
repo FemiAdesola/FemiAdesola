@@ -45,7 +45,7 @@ You can reach me [femioyin2003@yahoo.com].
 </p>
 
 ## Social Media
-<p>
+
 [<img src="https://img.shields.io/badge/LinkedIn-194bae?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/femi-adesola-oyinloye-106454145/)
-</p>
+
 
