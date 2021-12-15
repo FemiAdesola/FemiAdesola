@@ -28,11 +28,9 @@ You can reach me [femioyin2003@yahoo.com].
 </p>
 
 ## Tools
-
-  [<img src="https://img.shields.io/badge/Git-d15050?style=for-the-badge&logo=Git&logoColor=white" />](https://openbadgepassport.com/app/badge/info/406063)
  <p>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+</p>  [<img src="https://img.shields.io/badge/Git-d15050?style=for-the-badge&logo=Git&logoColor=white" />](https://openbadgepassport.com/app/badge/info/406063)
 
 ## Databases
 <p>
