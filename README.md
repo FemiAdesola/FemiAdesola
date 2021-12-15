@@ -37,12 +37,15 @@ You can reach me [femioyin2003@yahoo.com].
 ## Databases
 <p>
   <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-316192?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+## Hosting
+<p>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</p>
 ## Social Media
 <p>
-  ![<img src="https://img.shields.io/badge/LinkedIn-194bae?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/femi-adesola-oyinloye-106454145/) />]
+  [<img src="https://img.shields.io/badge/LinkedIn-194bae?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/femi-adesola-oyinloye-106454145/)
 </p>
 
