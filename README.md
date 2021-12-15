@@ -13,35 +13,30 @@ You can reach me [femioyin2003@yahoo.com].
 ![](https://komarev.com/ghpvc/?username=FemiAdesola&style=flat)
 
 
-## Programming languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-</p>
+<strong>Programming languages</strong>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
+
+<strong>Frameworks and Libraries</strong>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-## Frameworks and Libraries
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-## Tools
+<strong> Tools</strong>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> [<img src="https://img.shields.io/badge/Git-d15050?style=for-the-badge&logo=Git&logoColor=white" />](https://openbadgepassport.com/app/badge/info/406063)
 
 
-- Databases
+<strong>Databases</strong>
 
   <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
-## Hosting
-<p>
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</p>
+<strong>Hosting</strong>
 
-## Social Media
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+
+
+<strong>Social Media</strong>
 
 [<img src="https://img.shields.io/badge/LinkedIn-194bae?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/femi-adesola-oyinloye-106454145/)
 
