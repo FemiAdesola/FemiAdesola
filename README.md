@@ -28,9 +28,9 @@ You can reach me [femioyin2003@yahoo.com].
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> [<img src="https://img.shields.io/badge/Git-d15050?style=for-the-badge&logo=Git&logoColor=white" />](https://openbadgepassport.com/app/badge/info/406063)
 
 
-- Databases
+- Databases SQL
 
-  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-4EA94B?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Mysql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
 - Hosting
