@@ -30,7 +30,7 @@ You can reach me [femioyin2003@yahoo.com].
 
 - Databases SQL
 
-  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-0F1813?style=for-the-badge&logo=mariadb&logoColor=E7A982" /> <img src="https://img.shields.io/badge/Mysql-10263E?style=for-the-badge&logo=mysql&logoColor=brpw" />
+  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-0F1813?style=for-the-badge&logo=mariadb&logoColor=red" /> <img src="https://img.shields.io/badge/Mysql-10263E?style=for-the-badge&logo=mysql&logoColor=E7A982" />
 
 
 - Hosting
