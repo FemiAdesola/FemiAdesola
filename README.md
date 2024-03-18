@@ -1,8 +1,6 @@
 Hi, 
 I’m Femi Adesola.
-I’m interested in software development.
-I’m currently learning Full-Stack Development program at [Business college Helsinki, Finland](https://en.bc.fi/).
-I’m looking forward to collaborate on [software development].
+My passion for coding began in 2020, and I have been pursuing it ever since. I spend my free time reading about coding and researching different aspects of the field, which has helped me gain a deeper understanding and appreciation for the world of IT. My dedication has led me to enroll in different programs, where I have developed my skills and knowledge even further. Those programs have provided me with a wealth of resources and opportunities to learn and grow, and I feel confident that I have gained significant skills that will help me succeed in the industry. I am excited about the opportunity of working with a professional team of like-minded people, and I look forward to my future in the IT world as a Full-Stack developer. Also, I feel that this style of environment will allow me to put my skills into action, collaborate with others, and continue to learn and grow as a developer.
 You can reach me [femioyin2003@yahoo.com].
 Check more about the programming I have gone through, [click](https://github.com/React21S)
 
