@@ -4,7 +4,7 @@ My passion for coding began in 2020, and I have been pursuing it ever since. I s
 You can reach me [femioyin2003@yahoo.com].
 Check more about the programming I have gone through, [click](https://github.com/React21S)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemiAdesola&layout=donut&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemiAdesola&layout=donut-vertical&langs_count=8&hide=jupyter%20notebook&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemiAdesola&theme=dark&show_icons=true)
