@@ -4,7 +4,7 @@ My passion for coding began in 2020, and I have been pursuing it ever since. I s
 You can reach me [femioyin2003@yahoo.com].
 Check more about the programming I have gone through, [click](https://github.com/React21S)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemiAdesola&hide_progress=true&langs_count=11&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FemiAdesola&layout=donut-vertical&langs_count=11&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FemiAdesola&theme=dark&show_icons=true)
@@ -29,7 +29,7 @@ Check more about the programming I have gone through, [click](https://github.com
 
 - Databases SQL
 
-  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-0F1813?style=for-the-badge&logo=mariadb&logoColor=red" /> <img src="https://img.shields.io/badge/Mysql-10263E?style=for-the-badge&logo=mysql&logoColor=E7A982" />
+  <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-0F1813?style=for-the-badge&logo=mariadb&logoColor=red" /> <img src="https://img.shields.io/badge/Mysql-10263E?style=for-the-badge&logo=mysql&logoColor=E7A982" /> <img src="https://img.shields.io/badge/PostgreSQL-10263E?style=for-the-badge&logo=postgresql&logoColor=336791" />
 
 
 - Hosting
